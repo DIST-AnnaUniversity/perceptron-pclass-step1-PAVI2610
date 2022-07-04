@@ -1,14 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
-pip install numpy
-
-
-# In[20]:
-
 
 import numpy as np
 def p_class():
